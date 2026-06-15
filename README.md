@@ -1,4 +1,3 @@
-# Intro-a-API
-# Plataformas utilizadas:
-Insomnia: https://insomnia.rest/
-Swagger: https://swagger.io/
+## Plataformas utilizadas:
+> Insomnia: https://insomnia.rest/
+> Swagger: https://swagger.io/
