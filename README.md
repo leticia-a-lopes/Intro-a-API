@@ -1,3 +1,3 @@
 ## Plataformas utilizadas:
-> Insomnia: https://insomnia.rest/
-> Swagger: https://swagger.io/
+* [Insomnia]([https://google.com](https://insomnia.rest/)) 
+* [Swagger](https://swagger.io/)
